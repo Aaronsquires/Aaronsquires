@@ -4,6 +4,7 @@
 
 - I just released my first app K08-On-Demand
 - I’m currently learning everything 🤣
+- I dream of moving to America
 - 2020 Goals: Contribute more to my Portfolio and figure out the coding path I love
 - Fun fact: I love to play old school adventure games and I am currently making my own! 
 
