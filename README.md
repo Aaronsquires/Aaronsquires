@@ -3,10 +3,9 @@
 ## I'm a MSc Software Engineer Student at University of Bath!
 
 - I just released my first app K08-On-Demand https://www.ko8.fitness/ko8-on-demand
-- I’m currently creating my portfolio website
-- I dream of moving to America
-- 2020 Goals: Contribute more to my Portfolio and figure out the coding path I love
+- 2020 Goals: Contribute more to my Portfolio, create my Portfolio Website and achieve a Distinction in my Masters
 - Fun fact: I love to play old school adventure games and I am currently making my own! 
+- Repos to checkout: Pathway and Clivnars 
 
 ### Connect with me:
 
